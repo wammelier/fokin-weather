@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
     flex: 1
   },
   yellowView: {
-    flex: 50,
+    flex: 20,
     backgroundColor: "yellow"
   },
   blueView: {
